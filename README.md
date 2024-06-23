@@ -1,5 +1,5 @@
 # HelloWorld
 
-# Adding new stuff
+## Adding new stuff
 
-# This is a Cloud Patch
+### This is a Cloud Patch
